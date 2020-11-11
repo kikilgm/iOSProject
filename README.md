@@ -2,7 +2,6 @@
 <img src="./images/qun.jpg" width="14%"><img width="25%"><img src="./images/nj.jpg" width="14%"><b>Github&nbsp点个赞↑👍,感谢您的支持!</b>
 </div>
 
-GitHub：[NJHu](https://github.com/njhu) ｜ Blog：[NJHu 微博(Chinese)](https://www.weibo.com/njhu) ｜ [feedback](mailto:64hp@163.com):64hp@163.com
 
 <div>
 <img src="./images/gn1iphonex.png" width="16.6%"><img src="./images/jc.png" width="16.6%"><img src="./images/bsj/bsqbiphonex.png" width="16.6%"><img src="./images/wb/wb2iphonex.png" width="16.6%"><img src="./images/qqmusic/mus2iphonex.png" width="16.6%"><img src="./images/sp/clpiphonex.png" width="16.6%">
